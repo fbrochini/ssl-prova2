@@ -1,0 +1,1 @@
+A chave privada é um elemento fundamental da criptografia assimétrica. Ela é utilizada para descriptografar dados e assinar informações digitalmente. Deve ser mantida em sigilo, pois qualquer pessoa com acesso a ela pode comprometer a segurança do sistema.
