@@ -1,0 +1,1 @@
+O SCP (Secure Copy Protocol) é um método de transferência de arquivos que utiliza o protocolo SSH para garantir segurança. Ele permite copiar arquivos entre máquinas de forma criptografada, protegendo os dados durante a transmissão.
