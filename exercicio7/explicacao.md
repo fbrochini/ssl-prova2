@@ -1,0 +1,1 @@
+O erro ocorre porque o servidor iniciado com python não está configurado com um certificado SSL válido. Apesar de acessar via HTTPS, não há criptografia configurada corretamente, fazendo com que o navegador bloqueie a conexão por segurança.
