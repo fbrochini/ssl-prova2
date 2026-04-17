@@ -1,0 +1,1 @@
+O erro ocorre porque o servidor iniciado com Python suporta apenas HTTP, mas foi acessado utilizando HTTPS. Como não há configuração de SSL/TLS no servidor, o navegador não consegue estabelecer uma conexão segura, resultando em erro de protocolo.
