@@ -1,0 +1,1 @@
+O CSR (Certificate Signing Request) é uma solicitação de certificado digital que contém informações da entidade e a chave pública. Ele é enviado para uma Autoridade Certificadora (CA), que valida os dados e emite o certificado digital.
