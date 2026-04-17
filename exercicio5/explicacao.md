@@ -1,0 +1,1 @@
+O certificado digital é gerado a partir do CSR e da chave privada, permitindo a autenticação de uma entidade em comunicações seguras. Neste caso, foi criado um certificado autoassinado, ou seja, não validado por uma autoridade certificadora confiável.
