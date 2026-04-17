@@ -1,0 +1,1 @@
+O OpenSSL é uma ferramenta de código aberto utilizada para implementar protocolos de segurança como SSL/TLS. Ele permite gerar chaves criptográficas, certificados digitais e realizar criptografia de dados, sendo amplamente utilizado para proteger comunicações em redes.
